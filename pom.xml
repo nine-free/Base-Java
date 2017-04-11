@@ -17,6 +17,7 @@
         <module>lang-instrument</module>
         <module>lang-reflect</module>
         <module>lang-ref</module>
+        <module>lang-management</module>
     </modules>
 
     <properties>
